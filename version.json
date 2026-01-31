@@ -1,6 +1,6 @@
 {
   "version": "1.0",
   "changelog": "Добавлена система технических работ\nУлучшена отправка кодов",
-  "maintenance": 0,
+  "maintenance": 1,
   "maintenance_message": "Сообщение о технических работах"
 }
